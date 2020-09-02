@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#eGGs
+.ipynb_checkpoints
+.data2k17
+.Jaja_spektralnie_przechodzace_2017
+.imgs
